@@ -1,0 +1,153 @@
+---
+output: html_document
+---
+
+Homework 2 Write-Up - Team 6: Fantastic Fishes
+========================================================
+###Team Members' Names: 
+###Sarah Normoyle, Gonzalo Bustos, Xin Xu, Arpita Mandan
+
+#Functions
+
+##get_lq
+The script `get_lq` download the webpages of each La Quinta hotel in the given list. First, it creates a directory `data/lq/`. Then, it uses function `get_state_hotels` to download the webpages of La Quinta hotels of each state and stores these webpages into `data/lq/`.
+
+##parse_lq
+
+The function `parse_lq` uses the .html files in the `data/lq` directory that are created from the function `get_lq`. There are the same number of files that there are La Quinta hotels. It first initiates a data frame with empty columns for phone, fax, street address, city, state, zipcode, latitude, and longitude that are of the appropriate type and with the same number of rows that there are files. The main part of this function loops through each file and adds the various information from each .html file into the data frame. This function mostly employs tools found in the R packages rvest and stringr. Using appropriate html nodes and appropriate string manipulation tools on each file for each variable, the data is extracted from each file and added to corresponding column in the data frame. The address and phone information is all found in the text of one node, and the latitudes and longitudes are found in node of the map image on each page. Because of a few issues with the lLa Quinta website, the resulting data frame has a few repeats of one hotel, so the repeated hotels are also removed. Finally the data frame is saved as an object in lq.RData.
+
+##get_dennys
+
+The script `get_dennys` download the information of Denny's restaurants. Firstly, it creates a directory `data/dennys/`. Then, using the sites and radius in `dennys_coords.csv`, which could cover the whole United States, the function `get_dennys_locs` download the information of Denny's restaurants in each bubble and stores these webpages into `data/dennys/`.
+
+##parse_dennys
+
+The function `parse_dennys` uses the .xml files in the `data/dennys` directory that are created from the function `get_dennys`. The main part of this function loops through each .xml file and create a data frame for each file. Inside the loop, it first initiates a data frame with empty columns for phone, fax, street address, city, state, zipcode, latitude, longitude, and country that are of the appropriate type and with the same number of rows that there are counts of Dennys in the file. The data for each column was relatively easy to extract because each variable was a distinct xml node. Each data frame in the loop was storted in a list of data frames. After the loop, the data frames were binded together, only the US Dennys were kept, and the repeated Dennys were removed. Finally, the data frame was stored as an object in dennys.RData. 
+
+
+
+#Distance Analysis
+To begin the analysis, we decided to choose La Quinta’s as the starting point and calculate the distances from La Quinta’s to Denny’s. This is because there are almost twice as many Denny’s as La Quinta’s, so we interpreting the joke as seeing if there are Denny’s near the La Quinta’s. Since there are no La Quinta's in Alaska or Hawaii, we are also only looking at the Denny's in the Continental United States. 
+
+We calculated the distance from every La Quinta to every Denny’s and selected the minimum distance from these distances. Next, we plotted the distribution of these minimum distances to see what the minimum distances looked like. 
+
+```{r, warning = FALSE, echo = FALSE, message = FALSE}
+# install the packages if it is not there
+pckg = c("ggmap",  "geosphere")
+is.installed <- function(mypkg){
+    is.element(mypkg, installed.packages()[,1])
+ } 
+for(i in 1:length(pckg)) {
+    if (!is.installed(pckg[i])){
+         install.packages(pckg[i])
+     }
+ }
+library(geosphere)
+library(ggmap)
+
+# load data
+load("data/lq.Rdata")
+load("data/dennys.Rdata")
+
+# long, lat points for la quinta and dennys #
+lq_points = lq_df[, c("longitude", "latitude")]
+dennys_points = dennys_df[, c("longitude", "latitude")]
+
+dist = c()
+min_dist = c()
+# minimum distance from la quinta to dennys #
+# loop takes a few minutes to run #
+for (i in 1:nrow(lq_points)){
+        for (j in 1:nrow(dennys_points)){
+             dist[j] = distGeo(lq_points[i,], dennys_points[j,])
+        }
+        min_dist[i] = min(dist)
+
+}
+
+# convert m to km #
+min_dist = min_dist/1000
+```
+
+
+
+```{r, warning = FALSE, echo = FALSE, message = FALSE}
+# density of minimum distances #
+dens = density(min_dist)
+plot(dens, xlab = "Distance (km)", ylab = "Density",
+     main = "Distribution of All Min Distances")
+
+as.matrix(summary(min_dist))
+
+```
+
+Looking at the plot above, we can see that there is a large frequency of minimum distances that appear to be closer to 0. Then the distribution slopes down and is heavily skewed right because some La Quinta’s don’t have any Denny’s close by. However, from this plot, it appears that many La Quinta’s have nearby Denny’s. 
+
+Because the distribution of minimum distances is so skewed, the mean isn’t very informative. The median of 5km is better to look at for an overall summary measure of distance between La Quinta’s and Denny’s. This is a fairly close distance.
+
+To look more closely, we also zoomed on on this distribution and only plotted the  minimum distances that were less than 6000 meters which is seen below.
+
+```{r, warning = FALSE, echo = FALSE, message = FALSE}
+plot(dens, xlab = "Distance (km)", ylab= "Density",
+     main = "Distribution of Min Distances < 2.5 km",
+     xlim = c(-5,25))
+```
+
+Zooming in at the beginning of the distribution, we can see that the top of the density occurs between 0 and 5 km at about 2km. This shows that a lot of La Quinta's have Denny's that are closeby. Next, we went and calculated the actual proporiton of these La Quinta's that have nearby Denny's.
+
+```{r}
+# create cumulative proportion table #
+breaks <- c(0, .05, .5, 1, 2, 5, 300)
+min_dist_cut <- cut(min_dist, breaks, right = FALSE)
+min_dist_freq <- table(min_dist_cut)
+min_dist_cum <- cumsum(min_dist_freq)
+prop <- min_dist_cum / nrow(lq_df)
+
+names(prop) = c("< 0.05 km", "< 0.5 km", "< 1 km", "< 2 km", "< 5 km", ">= 5 km")
+prop = as.data.frame(prop)
+colnames(prop) = c("Percentages")
+print(signif(prop, 2))
+
+```
+
+This table above shows the percentage of total La Quinta’s that have a Denny’s within the distance specified, which is measured in km. There are numerous ways we could define close or many definitions might seem arbitrary, so we included a table of various definitions of closeness. No matter what you choose to define as close, it seems about 20% of La Quinta’s have a Denny’s that is close by, and 14% have a Denny’s that is very close, even considered next to. 
+
+
+```{r,warning = FALSE, echo = FALSE, message = FALSE}
+# get the map of USA
+myMap <- get_map(location='USA', zoom = 4)
+```
+
+The distributions of all La Quinta's is shown below. 
+
+```{r, warning = FALSE, echo = FALSE, message = FALSE}
+# plot lq
+ggmap(myMap)+
+  geom_point(aes(x = longitude, y = latitude), data = lq_df,
+             alpha = .5, color="blue", size = 2)
+```
+
+The distribution of Denny's in the Continental United States:
+
+```{r, warning = FALSE, echo = FALSE, message = FALSE}
+#plot dennys'
+ggmap(myMap)+
+  geom_point(aes(x = longitude, y = latitude), data = dennys_df,
+             alpha = .5, color="blue", size = 2)
+```
+
+
+Next, the La Quinta's that don't have Denny's nearby (>10km) are plotted as grey points. The rest are plotted with a gradient colored points.  
+
+```{r, warning = FALSE, echo = FALSE, message = FALSE}
+#plot min distance
+data = cbind(lq_df, min_dist)
+ggmap(myMap)+
+  geom_point(aes(x = longitude, y = latitude, colour = min_dist), data = data,
+             alpha = .7,  size = 2)+
+  scale_colour_gradient("Distance",low = "red",high = "gold",limits=c(1, 10))
+```
+
+Above is the most important of the map plots. The points that are colored are La Quinta’s that have Denny’s below 10km away. The gradient in the colors shows the proximity of the Denny’s to the La Quinta. The points that are red have Denny’s that are fairly close. We can see that a lot of red points seem to occur in California and Texas. We can also notice a lot of Denny's in California based on the map of of the distribution of Denny's. This appears to be interesting, and we could do a further analysis of distances subsetted by state. 
+
+The ambiguous question here is how many need to be close to each other for this joke to hold? No matter what, the joke is still a funny one, and we have found evidence to support it in terms of a large proportion of La Quinta's having Denny's that nearby. In a longer analysis of this data, we could also study the distances between La Quinta's and other similar sized chain restaurants. We could then see if the minimum distances to Denny's is significantly different than the minimum distances to other chains. 

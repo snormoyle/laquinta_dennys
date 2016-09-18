@@ -1,0 +1,1177 @@
+<?xml version="1.0" encoding="UTF-8"?><response code="1"><collection name="poi" count="42" country="US" radius="1407" radiusuom="mile" centerpoint="-150.82111,59.37073" state="AK" city="Homer" address="Glacier View Ave" province="" postalcode="99603"><poi>
+  <name>Denny's</name>
+  <_distance>130.14</_distance>
+  <_distanceuom>mile</_distanceuom>
+  <aaa></aaa>
+  <address1>2900 DENALI</address1>
+  <address2></address2>
+  <city>ANCHORAGE</city>
+  <clientkey>249000</clientkey>
+  <country>US</country>
+  <fax></fax>
+  <icon>default</icon>
+  <jobpostings_english>https://www.dennys.com/company/#careers</jobpostings_english>
+  <jobpostings_spanish></jobpostings_spanish>
+  <latitude>61.19528</latitude>
+  <longitude>-149.87667</longitude>
+  <loyalty_program></loyalty_program>
+  <onlineordering></onlineordering>
+  <other>9000</other>
+  <phone>(907) 333-6776</phone>
+  <postalcode>99503</postalcode>
+  <province></province>
+  <rank></rank>
+  <state>AK</state>
+  <status>0</status>
+  <travelplaza>0</travelplaza>
+  <uid>1928951915</uid>
+</poi>
+<poi>
+  <name>Denny's</name>
+  <_distance>131.70</_distance>
+  <_distanceuom>mile</_distanceuom>
+  <aaa></aaa>
+  <address1>3850 DEBARR ROAD</address1>
+  <address2></address2>
+  <city>ANCHORAGE</city>
+  <clientkey>249002</clientkey>
+  <country>US</country>
+  <fax></fax>
+  <icon>default</icon>
+  <jobpostings_english>https://www.dennys.com/company/#careers</jobpostings_english>
+  <jobpostings_spanish></jobpostings_spanish>
+  <latitude>61.2097364864865</latitude>
+  <longitude>-149.808988918919</longitude>
+  <loyalty_program></loyalty_program>
+  <onlineordering></onlineordering>
+  <other>9002</other>
+  <phone>(907) 337-1311</phone>
+  <postalcode>99508</postalcode>
+  <province></province>
+  <rank></rank>
+  <state>AK</state>
+  <status>0</status>
+  <travelplaza>0</travelplaza>
+  <uid>1930175578</uid>
+</poi>
+<poi>
+  <name>Denny's</name>
+  <_distance>390.29</_distance>
+  <_distanceuom>mile</_distanceuom>
+  <aaa></aaa>
+  <address1>1929 AIRPORT WAY</address1>
+  <address2></address2>
+  <city>FAIRBANKS</city>
+  <clientkey>249003</clientkey>
+  <country>US</country>
+  <fax></fax>
+  <icon>default</icon>
+  <jobpostings_english>https://www.dennys.com/company/#careers</jobpostings_english>
+  <jobpostings_spanish></jobpostings_spanish>
+  <latitude>64.83657</latitude>
+  <longitude>-147.759968732839</longitude>
+  <loyalty_program></loyalty_program>
+  <onlineordering></onlineordering>
+  <other>9003</other>
+  <phone>(907) 451-8950</phone>
+  <postalcode>99701</postalcode>
+  <province></province>
+  <rank></rank>
+  <state>AK</state>
+  <status>0</status>
+  <travelplaza>0</travelplaza>
+  <uid>1930175579</uid>
+</poi>
+<poi>
+  <name>Denny's</name>
+  <_distance>896.82</_distance>
+  <_distanceuom>mile</_distanceuom>
+  <aaa></aaa>
+  <address1>4828 HWY 16 W</address1>
+  <address2></address2>
+  <city>TERRACE</city>
+  <clientkey>246544</clientkey>
+  <country>CA</country>
+  <fax></fax>
+  <icon>default</icon>
+  <jobpostings_english>https://www.dennys.com/company/#careers</jobpostings_english>
+  <jobpostings_spanish></jobpostings_spanish>
+  <latitude>54.5157882661367</latitude>
+  <longitude>-128.600841866304</longitude>
+  <loyalty_program></loyalty_program>
+  <onlineordering></onlineordering>
+  <other>6544</other>
+  <phone>(250) 635-2295</phone>
+  <postalcode>V8G 1L6</postalcode>
+  <province>BC</province>
+  <rank></rank>
+  <state></state>
+  <status>0</status>
+  <travelplaza>0</travelplaza>
+  <uid>1134087511</uid>
+</poi>
+<poi>
+  <name>Denny's</name>
+  <_distance>1120.17</_distance>
+  <_distanceuom>mile</_distanceuom>
+  <aaa></aaa>
+  <address1>1650 CENTRAL ST</address1>
+  <address2></address2>
+  <city>PRINCE GEORGE</city>
+  <clientkey>246490</clientkey>
+  <country>CA</country>
+  <fax></fax>
+  <icon>default</icon>
+  <jobpostings_english>https://www.dennys.com/company/#careers</jobpostings_english>
+  <jobpostings_spanish></jobpostings_spanish>
+  <latitude>53.909637029703</latitude>
+  <longitude>-122.78118</longitude>
+  <loyalty_program></loyalty_program>
+  <onlineordering></onlineordering>
+  <other>6490</other>
+  <phone>(250) 562-6723</phone>
+  <postalcode>V2M 3C2</postalcode>
+  <province>BC</province>
+  <rank></rank>
+  <state></state>
+  <status>0</status>
+  <travelplaza>0</travelplaza>
+  <uid>1134087501</uid>
+</poi>
+<poi>
+  <name>Denny's</name>
+  <_distance>1166.86</_distance>
+  <_distanceuom>mile</_distanceuom>
+  <aaa></aaa>
+  <address1>940 CHEW AVE N</address1>
+  <address2></address2>
+  <city>QUESNEL</city>
+  <clientkey>247289</clientkey>
+  <country>CA</country>
+  <fax></fax>
+  <icon>default</icon>
+  <jobpostings_english>https://www.dennys.com/company/#careers</jobpostings_english>
+  <jobpostings_spanish></jobpostings_spanish>
+  <latitude>52.9635518181818</latitude>
+  <longitude>-122.441721111111</longitude>
+  <loyalty_program></loyalty_program>
+  <onlineordering></onlineordering>
+  <other>7289</other>
+  <phone>(250) 747-1657</phone>
+  <postalcode>V2J 6R8</postalcode>
+  <province>BC</province>
+  <rank></rank>
+  <state></state>
+  <status>0</status>
+  <travelplaza>0</travelplaza>
+  <uid>1134087500</uid>
+</poi>
+<poi>
+  <name>Denny's</name>
+  <_distance>1210.14</_distance>
+  <_distanceuom>mile</_distanceuom>
+  <aaa></aaa>
+  <address1>664 OLIVER ST</address1>
+  <address2></address2>
+  <city>WILLIAMS LAKE</city>
+  <clientkey>246446</clientkey>
+  <country>CA</country>
+  <fax></fax>
+  <icon>default</icon>
+  <jobpostings_english>https://www.dennys.com/company/#careers</jobpostings_english>
+  <jobpostings_spanish></jobpostings_spanish>
+  <latitude>52.1282875757576</latitude>
+  <longitude>-122.137674545455</longitude>
+  <loyalty_program></loyalty_program>
+  <onlineordering></onlineordering>
+  <other>6446</other>
+  <phone>(250) 398-5343</phone>
+  <postalcode>V2G 1M6</postalcode>
+  <province>BC</province>
+  <rank></rank>
+  <state></state>
+  <status>0</status>
+  <travelplaza>0</travelplaza>
+  <uid>1134087499</uid>
+</poi>
+<poi>
+  <name>Denny's</name>
+  <_distance>1218.23</_distance>
+  <_distanceuom>mile</_distanceuom>
+  <aaa></aaa>
+  <address1>9805-100TH ST</address1>
+  <address2></address2>
+  <city>GRANDE PRAIRIE</city>
+  <clientkey>247155</clientkey>
+  <country>CA</country>
+  <fax></fax>
+  <icon>default</icon>
+  <jobpostings_english>https://www.dennys.com/company/#careers</jobpostings_english>
+  <jobpostings_spanish></jobpostings_spanish>
+  <latitude>55.1688889795918</latitude>
+  <longitude>-118.794680816327</longitude>
+  <loyalty_program></loyalty_program>
+  <onlineordering></onlineordering>
+  <other>7155</other>
+  <phone>(780) 513-0103</phone>
+  <postalcode>T8V 6X3</postalcode>
+  <province>AB</province>
+  <rank></rank>
+  <state></state>
+  <status>0</status>
+  <travelplaza>0</travelplaza>
+  <uid>1134087490</uid>
+</poi>
+<poi>
+  <name>Denny's</name>
+  <_distance>1299.29</_distance>
+  <_distanceuom>mile</_distanceuom>
+  <aaa></aaa>
+  <address1>2050 MARINE DR</address1>
+  <address2></address2>
+  <city>N VANCOUVER</city>
+  <clientkey>247773</clientkey>
+  <country>CA</country>
+  <fax></fax>
+  <icon>default</icon>
+  <jobpostings_english>https://www.dennys.com/company/#careers</jobpostings_english>
+  <jobpostings_spanish></jobpostings_spanish>
+  <latitude>49.325072</latitude>
+  <longitude>-123.1247452</longitude>
+  <loyalty_program></loyalty_program>
+  <onlineordering></onlineordering>
+  <other>7773</other>
+  <phone>(604) 980-8210</phone>
+  <postalcode>V7P 1V7</postalcode>
+  <province>BC</province>
+  <rank></rank>
+  <state></state>
+  <status>0</status>
+  <travelplaza>0</travelplaza>
+  <uid>1134087510</uid>
+</poi>
+<poi>
+  <name>Denny's</name>
+  <_distance>1301.17</_distance>
+  <_distanceuom>mile</_distanceuom>
+  <aaa></aaa>
+  <address1>1098 DAVIE ST</address1>
+  <address2></address2>
+  <city>VANCOUVER</city>
+  <clientkey>246786</clientkey>
+  <country>CA</country>
+  <fax></fax>
+  <icon>default</icon>
+  <jobpostings_english>https://www.dennys.com/company/#careers</jobpostings_english>
+  <jobpostings_spanish></jobpostings_spanish>
+  <latitude>49.28039</latitude>
+  <longitude>-123.13119</longitude>
+  <loyalty_program></loyalty_program>
+  <onlineordering></onlineordering>
+  <other>6786</other>
+  <phone>(604) 689-0509</phone>
+  <postalcode>V6E 1M3</postalcode>
+  <province>BC</province>
+  <rank></rank>
+  <state></state>
+  <status>0</status>
+  <travelplaza>0</travelplaza>
+  <uid>1134087506</uid>
+</poi>
+<poi>
+  <name>Denny's</name>
+  <_distance>1301.51</_distance>
+  <_distanceuom>mile</_distanceuom>
+  <aaa></aaa>
+  <address1>1759 WEST BROADWAY</address1>
+  <address2></address2>
+  <city>VANCOUVER</city>
+  <clientkey>249234</clientkey>
+  <country>CA</country>
+  <fax></fax>
+  <icon>default</icon>
+  <jobpostings_english>https://www.dennys.com/company/#careers</jobpostings_english>
+  <jobpostings_spanish></jobpostings_spanish>
+  <latitude>49.2637023404255</latitude>
+  <longitude>-123.144505106383</longitude>
+  <loyalty_program></loyalty_program>
+  <onlineordering></onlineordering>
+  <other>9234</other>
+  <phone>(604) 678-9973</phone>
+  <postalcode>V6J 1Y2</postalcode>
+  <province>BC</province>
+  <rank></rank>
+  <state></state>
+  <status>0</status>
+  <travelplaza>0</travelplaza>
+  <uid>-754051418</uid>
+</poi>
+<poi>
+  <name>Denny's</name>
+  <_distance>1301.88</_distance>
+  <_distanceuom>mile</_distanceuom>
+  <aaa></aaa>
+  <address1>1296 W BROADWAY ST</address1>
+  <address2></address2>
+  <city>VANCOUVER</city>
+  <clientkey>247766</clientkey>
+  <country>CA</country>
+  <fax></fax>
+  <icon>default</icon>
+  <jobpostings_english>https://www.dennys.com/company/#careers</jobpostings_english>
+  <jobpostings_spanish></jobpostings_spanish>
+  <latitude>49.2635091836735</latitude>
+  <longitude>-123.133672244898</longitude>
+  <loyalty_program></loyalty_program>
+  <onlineordering></onlineordering>
+  <other>7766</other>
+  <phone>(604) 731-9033</phone>
+  <postalcode>V6H 1G6</postalcode>
+  <province>BC</province>
+  <rank></rank>
+  <state></state>
+  <status>0</status>
+  <travelplaza>0</travelplaza>
+  <uid>1134087507</uid>
+</poi>
+<poi>
+  <name>Denny's</name>
+  <_distance>1304.91</_distance>
+  <_distanceuom>mile</_distanceuom>
+  <aaa></aaa>
+  <address1>622 SW MARINE DR</address1>
+  <address2></address2>
+  <city>VANCOUVER</city>
+  <clientkey>247768</clientkey>
+  <country>CA</country>
+  <fax></fax>
+  <icon>default</icon>
+  <jobpostings_english>https://www.dennys.com/company/#careers</jobpostings_english>
+  <jobpostings_spanish></jobpostings_spanish>
+  <latitude>49.2092332653061</latitude>
+  <longitude>-123.119180612245</longitude>
+  <loyalty_program></loyalty_program>
+  <onlineordering></onlineordering>
+  <other>7768</other>
+  <phone>(604) 325-3712</phone>
+  <postalcode>V6P 5Y1</postalcode>
+  <province>BC</province>
+  <rank></rank>
+  <state></state>
+  <status>0</status>
+  <travelplaza>0</travelplaza>
+  <uid>1134087508</uid>
+</poi>
+<poi>
+  <name>Denny's</name>
+  <_distance>1306.06</_distance>
+  <_distanceuom>mile</_distanceuom>
+  <aaa></aaa>
+  <address1>10211 ST. EDWARDS DR</address1>
+  <address2></address2>
+  <city>RICHMOND</city>
+  <clientkey>248725</clientkey>
+  <country>CA</country>
+  <fax></fax>
+  <icon>default</icon>
+  <jobpostings_english>https://www.dennys.com/company/#careers</jobpostings_english>
+  <jobpostings_spanish></jobpostings_spanish>
+  <latitude>49.1896940570029</latitude>
+  <longitude>-123.1123214057</longitude>
+  <loyalty_program></loyalty_program>
+  <onlineordering></onlineordering>
+  <other>8725</other>
+  <phone>(604) 276-2853</phone>
+  <postalcode>V6X2M9</postalcode>
+  <province>BC</province>
+  <rank></rank>
+  <state></state>
+  <status>0</status>
+  <travelplaza>0</travelplaza>
+  <uid>1134087509</uid>
+</poi>
+<poi>
+  <name>Denny's</name>
+  <_distance>1308.80</_distance>
+  <_distanceuom>mile</_distanceuom>
+  <aaa></aaa>
+  <address1>5605 KINGS WAY</address1>
+  <address2></address2>
+  <city>BURNABY</city>
+  <clientkey>247774</clientkey>
+  <country>CA</country>
+  <fax></fax>
+  <icon>default</icon>
+  <jobpostings_english>https://www.dennys.com/company/#careers</jobpostings_english>
+  <jobpostings_spanish></jobpostings_spanish>
+  <latitude>49.2228757142857</latitude>
+  <longitude>-122.982296326531</longitude>
+  <loyalty_program></loyalty_program>
+  <onlineordering></onlineordering>
+  <other>7774</other>
+  <phone>(604) 434-9016</phone>
+  <postalcode>V5G 2G4</postalcode>
+  <province>BC</province>
+  <rank></rank>
+  <state></state>
+  <status>0</status>
+  <travelplaza>0</travelplaza>
+  <uid>1134087505</uid>
+</poi>
+<poi>
+  <name>Denny's</name>
+  <_distance>1310.52</_distance>
+  <_distanceuom>mile</_distanceuom>
+  <aaa></aaa>
+  <address1>500 AUSTIN AVE</address1>
+  <address2></address2>
+  <city>COQUITLAM</city>
+  <clientkey>247772</clientkey>
+  <country>CA</country>
+  <fax></fax>
+  <icon>default</icon>
+  <jobpostings_english>https://www.dennys.com/company/#careers</jobpostings_english>
+  <jobpostings_spanish></jobpostings_spanish>
+  <latitude>49.24909</latitude>
+  <longitude>-122.89286</longitude>
+  <loyalty_program></loyalty_program>
+  <onlineordering></onlineordering>
+  <other>7772</other>
+  <phone>(604) 939-6545</phone>
+  <postalcode>V3J 3M7</postalcode>
+  <province>BC</province>
+  <rank></rank>
+  <state></state>
+  <status>0</status>
+  <travelplaza>0</travelplaza>
+  <uid>1134087503</uid>
+</poi>
+<poi>
+  <name>Denny's</name>
+  <_distance>1314.91</_distance>
+  <_distanceuom>mile</_distanceuom>
+  <aaa></aaa>
+  <address1>8487 120TH ST</address1>
+  <address2></address2>
+  <city>NORTH DELTA</city>
+  <clientkey>246960</clientkey>
+  <country>CA</country>
+  <fax></fax>
+  <icon>default</icon>
+  <jobpostings_english>https://www.dennys.com/company/#careers</jobpostings_english>
+  <jobpostings_spanish></jobpostings_spanish>
+  <latitude>49.15747</latitude>
+  <longitude>-122.89046</longitude>
+  <loyalty_program></loyalty_program>
+  <onlineordering></onlineordering>
+  <other>6960</other>
+  <phone>(604) 590-1717</phone>
+  <postalcode>V4C 6R2</postalcode>
+  <province>BC</province>
+  <rank></rank>
+  <state></state>
+  <status>0</status>
+  <travelplaza>0</travelplaza>
+  <uid>1134087504</uid>
+</poi>
+<poi>
+  <name>Denny's</name>
+  <_distance>1322.19</_distance>
+  <_distanceuom>mile</_distanceuom>
+  <aaa></aaa>
+  <address1>#201-8855 202ND ST</address1>
+  <address2></address2>
+  <city>LANGLEY</city>
+  <clientkey>247034</clientkey>
+  <country>CA</country>
+  <fax></fax>
+  <icon>default</icon>
+  <jobpostings_english>https://www.dennys.com/company/#careers</jobpostings_english>
+  <jobpostings_spanish></jobpostings_spanish>
+  <latitude>49.1643812495742</latitude>
+  <longitude>-122.660635228591</longitude>
+  <loyalty_program></loyalty_program>
+  <onlineordering></onlineordering>
+  <other>7034</other>
+  <phone>(604) 888-6073</phone>
+  <postalcode>V1M 2N9</postalcode>
+  <province>BC</province>
+  <rank></rank>
+  <state></state>
+  <status>0</status>
+  <travelplaza>0</travelplaza>
+  <uid>1134087493</uid>
+</poi>
+<poi>
+  <name>Denny's</name>
+  <_distance>1323.95</_distance>
+  <_distanceuom>mile</_distanceuom>
+  <aaa></aaa>
+  <address1>19777 WILLOWBROOK DR</address1>
+  <address2></address2>
+  <city>LANGLEY</city>
+  <clientkey>249217</clientkey>
+  <country>CA</country>
+  <fax></fax>
+  <icon>default</icon>
+  <jobpostings_english>https://www.dennys.com/company/#careers</jobpostings_english>
+  <jobpostings_spanish></jobpostings_spanish>
+  <latitude>49.1168415606802</latitude>
+  <longitude>-122.67517340787</longitude>
+  <loyalty_program></loyalty_program>
+  <onlineordering></onlineordering>
+  <other>9217</other>
+  <phone>(604) 539-1170</phone>
+  <postalcode>V2Y 1A6</postalcode>
+  <province>BC</province>
+  <rank></rank>
+  <state></state>
+  <status>0</status>
+  <travelplaza>0</travelplaza>
+  <uid>-1155174173</uid>
+</poi>
+<poi>
+  <name>Denny's</name>
+  <_distance>1330.14</_distance>
+  <_distanceuom>mile</_distanceuom>
+  <aaa></aaa>
+  <address1>1845 ISLAND HIGHWAY</address1>
+  <address2></address2>
+  <city>COLWOOD</city>
+  <clientkey>249215</clientkey>
+  <country>CA</country>
+  <fax></fax>
+  <icon>default</icon>
+  <jobpostings_english>https://www.dennys.com/company/#careers</jobpostings_english>
+  <jobpostings_spanish></jobpostings_spanish>
+  <latitude>48.4431656718724</latitude>
+  <longitude>-123.468587622398</longitude>
+  <loyalty_program></loyalty_program>
+  <onlineordering></onlineordering>
+  <other>9215</other>
+  <phone>(250) 391-5580</phone>
+  <postalcode>V9B 1J3</postalcode>
+  <province>BC</province>
+  <rank></rank>
+  <state></state>
+  <status>0</status>
+  <travelplaza>0</travelplaza>
+  <uid>-1192729386</uid>
+</poi>
+<poi>
+  <name>Denny's</name>
+  <_distance>1330.55</_distance>
+  <_distanceuom>mile</_distanceuom>
+  <aaa></aaa>
+  <address1>898 TRANQUILLE RD</address1>
+  <address2></address2>
+  <city>KAMLOOPS</city>
+  <clientkey>247092</clientkey>
+  <country>CA</country>
+  <fax></fax>
+  <icon>default</icon>
+  <jobpostings_english>https://www.dennys.com/company/#careers</jobpostings_english>
+  <jobpostings_spanish></jobpostings_spanish>
+  <latitude>50.69984</latitude>
+  <longitude>-120.36599</longitude>
+  <loyalty_program></loyalty_program>
+  <onlineordering></onlineordering>
+  <other>7092</other>
+  <phone>(250) 554-4480</phone>
+  <postalcode>V2B 3J4</postalcode>
+  <province>BC</province>
+  <rank></rank>
+  <state></state>
+  <status>0</status>
+  <travelplaza>0</travelplaza>
+  <uid>1134087497</uid>
+</poi>
+<poi>
+  <name>Denny's</name>
+  <_distance>1333.08</_distance>
+  <_distanceuom>mile</_distanceuom>
+  <aaa></aaa>
+  <address1>570 COLUMBIA ST</address1>
+  <address2></address2>
+  <city>KAMLOOPS</city>
+  <clientkey>246852</clientkey>
+  <country>CA</country>
+  <fax></fax>
+  <icon>default</icon>
+  <jobpostings_english>https://www.dennys.com/company/#careers</jobpostings_english>
+  <jobpostings_spanish></jobpostings_spanish>
+  <latitude>50.6713973684211</latitude>
+  <longitude>-120.327794210526</longitude>
+  <loyalty_program></loyalty_program>
+  <onlineordering></onlineordering>
+  <other>6852</other>
+  <phone>(250) 374-6369</phone>
+  <postalcode>V2C 2V1</postalcode>
+  <province>BC</province>
+  <rank></rank>
+  <state></state>
+  <status>0</status>
+  <travelplaza>0</travelplaza>
+  <uid>1134087498</uid>
+</poi>
+<poi>
+  <name>Denny's</name>
+  <_distance>1333.23</_distance>
+  <_distanceuom>mile</_distanceuom>
+  <aaa></aaa>
+  <address1>3100 DOUGLAS ST</address1>
+  <address2></address2>
+  <city>VICTORIA</city>
+  <clientkey>247767</clientkey>
+  <country>CA</country>
+  <fax></fax>
+  <icon>default</icon>
+  <jobpostings_english>https://www.dennys.com/company/#careers</jobpostings_english>
+  <jobpostings_spanish></jobpostings_spanish>
+  <latitude>48.44509</latitude>
+  <longitude>-123.37074</longitude>
+  <loyalty_program></loyalty_program>
+  <onlineordering></onlineordering>
+  <other>7767</other>
+  <phone>(250) 382-3844</phone>
+  <postalcode>V8Z 3X2</postalcode>
+  <province>BC</province>
+  <rank></rank>
+  <state></state>
+  <status>0</status>
+  <travelplaza>0</travelplaza>
+  <uid>1134087512</uid>
+</poi>
+<poi>
+  <name>Denny's</name>
+  <_distance>1336.54</_distance>
+  <_distanceuom>mile</_distanceuom>
+  <aaa></aaa>
+  <address1>2950 MT. LEHMAN RD</address1>
+  <address2></address2>
+  <city>ABBOTSFORD</city>
+  <clientkey>249216</clientkey>
+  <country>CA</country>
+  <fax></fax>
+  <icon>default</icon>
+  <jobpostings_english>https://www.dennys.com/company/#careers</jobpostings_english>
+  <jobpostings_spanish></jobpostings_spanish>
+  <latitude>49.0563015997951</latitude>
+  <longitude>-122.381242899949</longitude>
+  <loyalty_program></loyalty_program>
+  <onlineordering></onlineordering>
+  <other>9216</other>
+  <phone></phone>
+  <postalcode>V4X 2N6</postalcode>
+  <province>BC</province>
+  <rank></rank>
+  <state></state>
+  <status>1</status>
+  <travelplaza>0</travelplaza>
+  <uid>-258186472</uid>
+</poi>
+<poi>
+  <name>Denny's</name>
+  <_distance>1338.79</_distance>
+  <_distanceuom>mile</_distanceuom>
+  <aaa></aaa>
+  <address1>32720 SIMON AVENUE</address1>
+  <address2></address2>
+  <city>ABBOTSFORD</city>
+  <clientkey>248521</clientkey>
+  <country>CA</country>
+  <fax></fax>
+  <icon>default</icon>
+  <jobpostings_english>https://www.dennys.com/company/#careers</jobpostings_english>
+  <jobpostings_spanish></jobpostings_spanish>
+  <latitude>49.0532083695553</latitude>
+  <longitude>-122.317542826226</longitude>
+  <loyalty_program></loyalty_program>
+  <onlineordering></onlineordering>
+  <other>8521</other>
+  <phone>(604) 853-3669</phone>
+  <postalcode>V2T 0B8</postalcode>
+  <province>BC</province>
+  <rank></rank>
+  <state></state>
+  <status>0</status>
+  <travelplaza>0</travelplaza>
+  <uid>1142338407</uid>
+</poi>
+<poi>
+  <name>Denny's</name>
+  <_distance>1339.98</_distance>
+  <_distanceuom>mile</_distanceuom>
+  <aaa></aaa>
+  <address1>5720 BARRETT RD</address1>
+  <address2></address2>
+  <city>FERNDALE</city>
+  <clientkey>247048</clientkey>
+  <country>US</country>
+  <fax></fax>
+  <icon>default</icon>
+  <jobpostings_english>https://www.dennys.com/company/#careers</jobpostings_english>
+  <jobpostings_spanish></jobpostings_spanish>
+  <latitude>48.848741686353</latitude>
+  <longitude>-122.573532359889</longitude>
+  <loyalty_program>1</loyalty_program>
+  <onlineordering></onlineordering>
+  <other>7048</other>
+  <phone>(360) 380-3922</phone>
+  <postalcode>98248</postalcode>
+  <province></province>
+  <rank></rank>
+  <state>WA</state>
+  <status>0</status>
+  <travelplaza>0</travelplaza>
+  <uid>981919678</uid>
+</poi>
+<poi>
+  <name>Denny's</name>
+  <_distance>1340.78</_distance>
+  <_distanceuom>mile</_distanceuom>
+  <aaa></aaa>
+  <address1>175 KOKANEE WAY</address1>
+  <address2></address2>
+  <city>KAMLOOPS</city>
+  <clientkey>248672</clientkey>
+  <country>CA</country>
+  <fax></fax>
+  <icon>default</icon>
+  <jobpostings_english>https://www.dennys.com/company/#careers</jobpostings_english>
+  <jobpostings_spanish></jobpostings_spanish>
+  <latitude>50.65878</latitude>
+  <longitude>-120.11909</longitude>
+  <loyalty_program></loyalty_program>
+  <onlineordering></onlineordering>
+  <other>8672</other>
+  <phone>(250) 273-2881</phone>
+  <postalcode>V2C 6Z2</postalcode>
+  <province>BC</province>
+  <rank></rank>
+  <state></state>
+  <status>0</status>
+  <travelplaza>0</travelplaza>
+  <uid>1143678920</uid>
+</poi>
+<poi>
+  <name>Denny's</name>
+  <_distance>1345.95</_distance>
+  <_distanceuom>mile</_distanceuom>
+  <aaa></aaa>
+  <address1>161 TELEGRAPH RD.</address1>
+  <address2></address2>
+  <city>BELLINGHAM</city>
+  <clientkey>247872</clientkey>
+  <country>US</country>
+  <fax></fax>
+  <icon>default</icon>
+  <jobpostings_english>https://www.dennys.com/company/#careers</jobpostings_english>
+  <jobpostings_spanish></jobpostings_spanish>
+  <latitude>48.7843866728034</latitude>
+  <longitude>-122.485432646017</longitude>
+  <loyalty_program>1</loyalty_program>
+  <onlineordering></onlineordering>
+  <other>7872</other>
+  <phone>(360) 676-0173</phone>
+  <postalcode>98226</postalcode>
+  <province></province>
+  <rank></rank>
+  <state>WA</state>
+  <status>0</status>
+  <travelplaza>0</travelplaza>
+  <uid>981920253</uid>
+</poi>
+<poi>
+  <name>Denny's</name>
+  <_distance>1367.45</_distance>
+  <_distanceuom>mile</_distanceuom>
+  <aaa></aaa>
+  <address1>100 EAST COLLEGE WAY</address1>
+  <address2></address2>
+  <city>MT. VERNON</city>
+  <clientkey>247878</clientkey>
+  <country>US</country>
+  <fax></fax>
+  <icon>default</icon>
+  <jobpostings_english>https://www.dennys.com/company/#careers</jobpostings_english>
+  <jobpostings_spanish></jobpostings_spanish>
+  <latitude>48.4358756637168</latitude>
+  <longitude>-122.339210973451</longitude>
+  <loyalty_program>1</loyalty_program>
+  <onlineordering></onlineordering>
+  <other>7878</other>
+  <phone>(360) 424-7500</phone>
+  <postalcode>98273</postalcode>
+  <province></province>
+  <rank></rank>
+  <state>WA</state>
+  <status>0</status>
+  <travelplaza>0</travelplaza>
+  <uid>981920258</uid>
+</poi>
+<poi>
+  <name>Denny's</name>
+  <_distance>1384.04</_distance>
+  <_distanceuom>mile</_distanceuom>
+  <aaa></aaa>
+  <address1>2202 STATE RT 530 NE</address1>
+  <address2></address2>
+  <city>ARLINGTON</city>
+  <clientkey>246351</clientkey>
+  <country>US</country>
+  <fax></fax>
+  <icon>default</icon>
+  <jobpostings_english>https://www.dennys.com/company/#careers</jobpostings_english>
+  <jobpostings_spanish></jobpostings_spanish>
+  <latitude>48.1879852916961</latitude>
+  <longitude>-122.198749742865</longitude>
+  <loyalty_program>1</loyalty_program>
+  <onlineordering></onlineordering>
+  <other>6351</other>
+  <phone>(360) 652-9444</phone>
+  <postalcode>98223</postalcode>
+  <province></province>
+  <rank></rank>
+  <state>WA</state>
+  <status>0</status>
+  <travelplaza>0</travelplaza>
+  <uid>981919341</uid>
+</poi>
+<poi>
+  <name>Denny's</name>
+  <_distance>1386.46</_distance>
+  <_distanceuom>mile</_distanceuom>
+  <aaa></aaa>
+  <address1>4201-32ND ST</address1>
+  <address2></address2>
+  <city>VERNON</city>
+  <clientkey>246501</clientkey>
+  <country>CA</country>
+  <fax></fax>
+  <icon>default</icon>
+  <jobpostings_english>https://www.dennys.com/company/#careers</jobpostings_english>
+  <jobpostings_spanish></jobpostings_spanish>
+  <latitude>50.27304</latitude>
+  <longitude>-119.27378</longitude>
+  <loyalty_program></loyalty_program>
+  <onlineordering></onlineordering>
+  <other>6501</other>
+  <phone>(250) 542-0079</phone>
+  <postalcode>V1T 5P3</postalcode>
+  <province>BC</province>
+  <rank></rank>
+  <state></state>
+  <status>0</status>
+  <travelplaza>0</travelplaza>
+  <uid>1134087494</uid>
+</poi>
+<poi>
+  <name>Denny's</name>
+  <_distance>1391.55</_distance>
+  <_distanceuom>mile</_distanceuom>
+  <aaa></aaa>
+  <address1>1891 FRASER DR</address1>
+  <address2></address2>
+  <city>REVELSTOKE</city>
+  <clientkey>247055</clientkey>
+  <country>CA</country>
+  <fax></fax>
+  <icon>default</icon>
+  <jobpostings_english>https://www.dennys.com/company/#careers</jobpostings_english>
+  <jobpostings_spanish></jobpostings_spanish>
+  <latitude>51.0093336276839</latitude>
+  <longitude>-118.2166456214</longitude>
+  <loyalty_program></loyalty_program>
+  <onlineordering></onlineordering>
+  <other>7055</other>
+  <phone>(250) 837-2034</phone>
+  <postalcode>V0E 2S0</postalcode>
+  <province>BC</province>
+  <rank></rank>
+  <state></state>
+  <status>0</status>
+  <travelplaza>0</travelplaza>
+  <uid>1134087491</uid>
+</poi>
+<poi>
+  <name>Denny's</name>
+  <_distance>1392.36</_distance>
+  <_distanceuom>mile</_distanceuom>
+  <aaa></aaa>
+  <address1>418 W. HERON ST</address1>
+  <address2></address2>
+  <city>ABERDEEN</city>
+  <clientkey>248855</clientkey>
+  <country>US</country>
+  <fax></fax>
+  <icon>default</icon>
+  <jobpostings_english>https://www.dennys.com/company/#careers</jobpostings_english>
+  <jobpostings_spanish></jobpostings_spanish>
+  <latitude>46.9715279591837</latitude>
+  <longitude>-123.820768571429</longitude>
+  <loyalty_program></loyalty_program>
+  <onlineordering></onlineordering>
+  <other>8855</other>
+  <phone>(360) 637-9584</phone>
+  <postalcode>98520</postalcode>
+  <province></province>
+  <rank></rank>
+  <state>WA</state>
+  <status>0</status>
+  <travelplaza>0</travelplaza>
+  <uid>-1340887933</uid>
+</poi>
+<poi>
+  <name>Denny's</name>
+  <_distance>1394.52</_distance>
+  <_distanceuom>mile</_distanceuom>
+  <aaa></aaa>
+  <address1>2903 PACIFIC AVE.</address1>
+  <address2></address2>
+  <city>EVERETT</city>
+  <clientkey>247867</clientkey>
+  <country>US</country>
+  <fax></fax>
+  <icon>default</icon>
+  <jobpostings_english>https://www.dennys.com/company/#careers</jobpostings_english>
+  <jobpostings_spanish></jobpostings_spanish>
+  <latitude>47.9767397959184</latitude>
+  <longitude>-122.192459387755</longitude>
+  <loyalty_program>1</loyalty_program>
+  <onlineordering></onlineordering>
+  <other>7867</other>
+  <phone>(425) 259-5031</phone>
+  <postalcode>98201</postalcode>
+  <province></province>
+  <rank></rank>
+  <state>WA</state>
+  <status>0</status>
+  <travelplaza>0</travelplaza>
+  <uid>981920248</uid>
+</poi>
+<poi>
+  <name>Denny's</name>
+  <_distance>1396.05</_distance>
+  <_distanceuom>mile</_distanceuom>
+  <aaa></aaa>
+  <address1>8417 EVERGREEN WAY</address1>
+  <address2></address2>
+  <city>EVERETT</city>
+  <clientkey>247870</clientkey>
+  <country>US</country>
+  <fax></fax>
+  <icon>default</icon>
+  <jobpostings_english>https://www.dennys.com/company/#careers</jobpostings_english>
+  <jobpostings_spanish></jobpostings_spanish>
+  <latitude>47.9214262068966</latitude>
+  <longitude>-122.228516034483</longitude>
+  <loyalty_program>1</loyalty_program>
+  <onlineordering></onlineordering>
+  <other>7870</other>
+  <phone>(425) 355-4881</phone>
+  <postalcode>98208</postalcode>
+  <province></province>
+  <rank></rank>
+  <state>WA</state>
+  <status>0</status>
+  <travelplaza>0</travelplaza>
+  <uid>981920251</uid>
+</poi>
+<poi>
+  <name>Denny's</name>
+  <_distance>1397.74</_distance>
+  <_distanceuom>mile</_distanceuom>
+  <aaa></aaa>
+  <address1>132 128 ST SW</address1>
+  <address2></address2>
+  <city>EVERETT</city>
+  <clientkey>247868</clientkey>
+  <country>US</country>
+  <fax></fax>
+  <icon>default</icon>
+  <jobpostings_english>https://www.dennys.com/company/#careers</jobpostings_english>
+  <jobpostings_spanish></jobpostings_spanish>
+  <latitude>47.881942147651</latitude>
+  <longitude>-122.235729395973</longitude>
+  <loyalty_program>1</loyalty_program>
+  <onlineordering></onlineordering>
+  <other>7868</other>
+  <phone>(425) 355-2210</phone>
+  <postalcode>98204</postalcode>
+  <province></province>
+  <rank></rank>
+  <state>WA</state>
+  <status>0</status>
+  <travelplaza>0</travelplaza>
+  <uid>981920249</uid>
+</poi>
+<poi>
+  <name>Denny's</name>
+  <_distance>1397.91</_distance>
+  <_distanceuom>mile</_distanceuom>
+  <aaa></aaa>
+  <address1>2130 HARVEY AVE</address1>
+  <address2></address2>
+  <city>KELOWNA</city>
+  <clientkey>246575</clientkey>
+  <country>CA</country>
+  <fax></fax>
+  <icon>default</icon>
+  <jobpostings_english>https://www.dennys.com/company/#careers</jobpostings_english>
+  <jobpostings_spanish></jobpostings_spanish>
+  <latitude>49.88194</latitude>
+  <longitude>-119.44102625</longitude>
+  <loyalty_program></loyalty_program>
+  <onlineordering></onlineordering>
+  <other>6575</other>
+  <phone>(250) 860-1133</phone>
+  <postalcode>V1Y6E8</postalcode>
+  <province>BC</province>
+  <rank></rank>
+  <state></state>
+  <status>0</status>
+  <travelplaza>0</travelplaza>
+  <uid>1134087495</uid>
+</poi>
+<poi>
+  <name>Denny's</name>
+  <_distance>1398.63</_distance>
+  <_distanceuom>mile</_distanceuom>
+  <aaa></aaa>
+  <address1>5004 KITSAP WAY</address1>
+  <address2></address2>
+  <city>BREMERTON</city>
+  <clientkey>247547</clientkey>
+  <country>US</country>
+  <fax></fax>
+  <icon>default</icon>
+  <jobpostings_english>https://www.dennys.com/company/#careers</jobpostings_english>
+  <jobpostings_spanish></jobpostings_spanish>
+  <latitude>47.5696095918367</latitude>
+  <longitude>-122.682396122449</longitude>
+  <loyalty_program>1</loyalty_program>
+  <onlineordering></onlineordering>
+  <other>7547</other>
+  <phone>(360) 479-8941</phone>
+  <postalcode>98312</postalcode>
+  <province></province>
+  <rank></rank>
+  <state>WA</state>
+  <status>0</status>
+  <travelplaza>0</travelplaza>
+  <uid>981919982</uid>
+</poi>
+<poi>
+  <name>Denny's</name>
+  <_distance>1399.01</_distance>
+  <_distanceuom>mile</_distanceuom>
+  <aaa></aaa>
+  <address1>4109 196TH PLACE</address1>
+  <address2></address2>
+  <city>LYNNWOOD</city>
+  <clientkey>247862</clientkey>
+  <country>US</country>
+  <fax></fax>
+  <icon>default</icon>
+  <jobpostings_english>https://www.dennys.com/company/#careers</jobpostings_english>
+  <jobpostings_spanish></jobpostings_spanish>
+  <latitude>47.8209586254917</latitude>
+  <longitude>-122.28851610503</longitude>
+  <loyalty_program>1</loyalty_program>
+  <onlineordering></onlineordering>
+  <other>7862</other>
+  <phone>(425) 774-3834</phone>
+  <postalcode>98036</postalcode>
+  <province></province>
+  <rank></rank>
+  <state>WA</state>
+  <status>0</status>
+  <travelplaza>0</travelplaza>
+  <uid>981920243</uid>
+</poi>
+<poi>
+  <name>Denny's</name>
+  <_distance>1399.24</_distance>
+  <_distanceuom>mile</_distanceuom>
+  <aaa></aaa>
+  <address1>8431 244TH ST. SW</address1>
+  <address2></address2>
+  <city>EDMONDS</city>
+  <clientkey>248874</clientkey>
+  <country>US</country>
+  <fax></fax>
+  <icon>default</icon>
+  <jobpostings_english>https://www.dennys.com/company/#careers</jobpostings_english>
+  <jobpostings_spanish></jobpostings_spanish>
+  <latitude>47.7778</latitude>
+  <longitude>-122.346581315789</longitude>
+  <loyalty_program>1</loyalty_program>
+  <onlineordering></onlineordering>
+  <other>8874</other>
+  <phone>(425) 582-0578</phone>
+  <postalcode>98026</postalcode>
+  <province></province>
+  <rank></rank>
+  <state>WA</state>
+  <status>0</status>
+  <travelplaza>0</travelplaza>
+  <uid>-1914949881</uid>
+</poi>
+<poi>
+  <name>Denny's</name>
+  <_distance>1401.30</_distance>
+  <_distanceuom>mile</_distanceuom>
+  <aaa></aaa>
+  <address1>E 301 WALLACE-KNEELAND BLVD</address1>
+  <address2></address2>
+  <city>SHELTON</city>
+  <clientkey>246845</clientkey>
+  <country>US</country>
+  <fax></fax>
+  <icon>default</icon>
+  <jobpostings_english>https://www.dennys.com/company/#careers</jobpostings_english>
+  <jobpostings_spanish></jobpostings_spanish>
+  <latitude>47.2312310173513</latitude>
+  <longitude>-123.125810843838</longitude>
+  <loyalty_program>1</loyalty_program>
+  <onlineordering></onlineordering>
+  <other>6845</other>
+  <phone>(360) 427-6502</phone>
+  <postalcode>98584</postalcode>
+  <province></province>
+  <rank></rank>
+  <state>WA</state>
+  <status>0</status>
+  <travelplaza>0</travelplaza>
+  <uid>981919563</uid>
+</poi>
+<poi>
+  <name>Denny's</name>
+  <_distance>1402.84</_distance>
+  <_distanceuom>mile</_distanceuom>
+  <aaa></aaa>
+  <address1>22833 BOTHELL HWY SE</address1>
+  <address2></address2>
+  <city>BOTHELL</city>
+  <clientkey>247129</clientkey>
+  <country>US</country>
+  <fax></fax>
+  <icon>default</icon>
+  <jobpostings_english>https://www.dennys.com/company/#careers</jobpostings_english>
+  <jobpostings_spanish></jobpostings_spanish>
+  <latitude>47.790538</latitude>
+  <longitude>-122.217052</longitude>
+  <loyalty_program></loyalty_program>
+  <onlineordering></onlineordering>
+  <other>7129</other>
+  <phone>(425) 486-8651</phone>
+  <postalcode>98021</postalcode>
+  <province></province>
+  <rank></rank>
+  <state>WA</state>
+  <status>0</status>
+  <travelplaza>0</travelplaza>
+  <uid>981919713</uid>
+</poi>
+</collection></response>
